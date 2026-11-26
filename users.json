@@ -4,7 +4,7 @@
   "version": "1.0",
   "users": [
     {
-      "id": "USR001",
+      "id": "admin",
       "username": "admin01",
       "password_hash": "admin01",
       "expires_at": "2026-12-31",
@@ -12,8 +12,8 @@
     },
     {
       "id": "USR002",
-      "username": "user001",
-      "password_hash": "ISI_HASH_PASSWORD",
+      "username": "user00",
+      "password_hash": "001001001",
       "expires_at": "2026-12-05",
       "status": "active"
     }
