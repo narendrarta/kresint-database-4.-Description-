@@ -4,16 +4,16 @@
   "version": "1.0",
   "users": [
     {
-      "id": "admin",
+      "id": "administrator",
       "username": "admin01",
       "password_hash": "admin1234",
-      "expires_at": "2026-12-31",
+      "expires_at": "2222-11-11",
       "status": "active"
     },
     {
-      "id": "narendruy_",
+      "id": "narend",
       "username": "narendraw",
-      "password_hash": "admin11",
+      "password_hash": "narendrarta15",
       "expires_at": "2026-12-05",
       "status": "active"
     }
