@@ -5,8 +5,8 @@
   "users": [
     {
       "id": "admin",
-      "username": "admin10",
-      "password_hash": "admin1",
+      "username": "admin01",
+      "password_hash": "admin1234",
       "expires_at": "2026-12-31",
       "status": "active"
     },
