@@ -16,6 +16,13 @@
       "password_hash": "narendrarta15",
       "expires_at": "2026-12-05",
       "status": "active"
+    },
+    {
+      "id": "[user] Trial Account",
+      "username": "kresintv1",
+      "password_hash": "v1findbug",
+      "expires_at": "2027-01-01",
+      "status": "active"
     }
   ]
 }
