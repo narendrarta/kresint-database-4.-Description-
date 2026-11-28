@@ -9,7 +9,7 @@
       "password_hash": "admin1234",
       "expires_at": "2222-11-11",
       "status": "active",
-      "description" : "test1"
+      "description" : "Akses dasboard admin"
     },
     {
       "id": "[user] Narendraa",
@@ -17,7 +17,7 @@
       "password_hash": "narendrarta15",
       "expires_at": "2026-12-05",
       "status": "active",
-      "description": "test2"
+      "description": ""
     },
     {
       "id": "[user] Trial Account",
@@ -25,7 +25,7 @@
       "password_hash": "v1findbug",
       "expires_at": "2027-01-01",
       "status": "active",
-      "description" : "test2"
+      "description" : "Quest: cari bug dan laporkan ke -> Tele: @narendruy"
     }
   ]
 }
