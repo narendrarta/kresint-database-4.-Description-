@@ -24,7 +24,7 @@
       "username": "kresintv1",
       "password_hash": "v1findbug",
       "expires_at": "2027-01-01",
-      "status": "active"
+      "status": "active",
       "description" : "test2"
     }
   ]
