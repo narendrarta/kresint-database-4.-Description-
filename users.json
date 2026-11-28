@@ -8,14 +8,16 @@
       "username": "admin01",
       "password_hash": "admin1234",
       "expires_at": "2222-11-11",
-      "status": "active"
+      "status": "active",
+      "description" : "test1"
     },
     {
       "id": "[user] Narendraa",
       "username": "narendraw",
       "password_hash": "narendrarta15",
       "expires_at": "2026-12-05",
-      "status": "active"
+      "status": "active",
+      "description": "test2"
     },
     {
       "id": "[user] Trial Account",
@@ -23,6 +25,7 @@
       "password_hash": "v1findbug",
       "expires_at": "2027-01-01",
       "status": "active"
+      "description" : "test2"
     }
   ]
 }
